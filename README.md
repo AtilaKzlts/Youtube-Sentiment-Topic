@@ -1,16 +1,25 @@
+<div align="center">
+  <h1>Customer Feedback Analysis on a New Product Launch</h1>
+ </p>
+</div>
 
-# Customer Feedback Analysis on a New Product Launch
 
 ## Table of Contents
 
-- Project Introduction
-    - Executive summary
-    - About the Data Set
-    - Objective
-- Analysis Outputs
++	Project Introduction
+    +	Executive Summary
+    +	About the Data Set
+    +	Methodology
+    +	Objective
+    
++	Analysis Outputs
+    +	Sentiment Analysis
+    +	Trend Analysis
+    +	Topic Modeling
+    +	Question Detection 
 
 
-## ðŸ“Œ Project Introduction
+## Project Introduction
 
 This project presents a complete Natural Language Processing (NLP) pipeline developed to analyze customer feedback following a product launch. 
 
@@ -70,8 +79,55 @@ These strategies will enhance customer satisfaction and strengthen the productâ€
 | `like_count`   | Number of likes the comment received                                        |
 | `text`         | The original comment text as displayed on YouTube                           |
 
-## Objective 
 
+## Methodology
+
+**Data Collection:**
+
+* Retrieved comments using the YouTube API (specified endpoint, applied filters, date range, etc.)
+
+**Data Cleaning:**
+
+* Removed empty or irrelevant comments
+* Performed language detection and filtered out comments not in Turkish or English
+* Cleaned special characters and removed emojis
+* Converted text to lowercase and standardized punctuation
+* Removed URLs, email addresses, and user mentions
+
+**Data Transformation:**
+
+* Applied tokenization (word segmentation)
+* Removed stop words (irrelevant/common words)
+* Performed lemmatization or stemming
+* Extracted n-grams for phrase-level analysis
+
+**Sentiment Analysis Preparation:**
+
+* Vectorized cleaned text using BERT embeddings
+* Classified comments into positive, negative, or neutral sentiment categories
+
+**Topic Modeling:**
+
+* Utilized BERTopic to identify main discussion topics
+* Reduced dimensionality using UMAP for visualization
+* Clustered comments based on semantic similarity
+
+**Question Detection:**
+
+* Extracted questions using rule-based patterns and keyword matching
+* Categorized questions by topic for focused content strategy
+
+**Visualization and Reporting:**
+
+* Created time-series charts for comment volume and sentiment trends
+* Developed heatmaps for engagement and sentiment intensity by hour
+* Mapped topic clusters and sentiment distribution per topic
+* Generated actionable insights for marketing, product, and communication teams
+
+
+----
+
+## Objective 
 
 * To understand the **public perception** of our new product (Omikron OT60 yacht) through YouTube comments.
 
