@@ -3,6 +3,7 @@
  </p>
 </div>
 
+![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/Diagram.svg)
 
 ## Table of Contents
 
@@ -223,6 +224,57 @@ The topic-based sentiment analysis of user reviews for the Omikron OT60 mattress
 
 ![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/11.png)
 ![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/12.png)
-![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/13.png)
+
 
 This chart illustrates the distribution of viewer interest based on the volume of questions found in YouTube comments. According to the chart, "Topic 6" (Naming and Meaning Questions) and "Topic 21" (Appliances and Auxiliary Equipment Questions) contain the highest number of questions, each with 21 inquiries. This indicates that these topics are the most curious or uncertain areas among viewers. "Topic 3" (Yacht Equipment and Structural Questions), "Topic 4" (Range and Fuel Efficiency Questions), and "Topic 1" (General Yacht Ownership and Usage Questions) also contain a high volume of questions. Additionally, "Topic 16" (Pricing and Cost Questions) highlights the importance of pricing-related inquiries. In this context, content creators can enhance viewer engagement and better meet audience expectations by focusing future videos or communication strategies on frequently asked subjects such as naming conventions, yacht interior equipment (especially appliances), technical specifications (engine, range), and pricing, providing detailed explanations and Q&A-style content.
+
+```
+🔹 Topic 8 Example Comments:
+- VIP cabin?? That double bed looks like it was made for children - an adults feet would hang off the end... <a href="https://www.youtube.com/watch?v=x9x7BbFdQbQ&amp;t=598">9:58</a>
+- What an episode, we had rapping, fax machines rock, and all on one stunning boat. That is one super clean engine room. The one thing I didn&#39;t like was the shower in the owner&#39;s suite, it&#39;s big but I like to have my towels out of the splash zone and it looked to me like there was no &quot;protection&quot; for the towels. Other than that the boat looks really comfortable and with that range.
+- what a waste of space!!!<br>i won&#39;t pay 2 millions to have bruises in my knees getting up to the small bed in that small owner cabin
+
+🔹 Topic 9 Example Comments:
+- Where do they put the extra fuel tank?  Does it take up space in one or more of the rooms?
+- So where do they put another 1500+ gallons of fuel to make it transatlantic?
+- Losers, try to match electric, you cannot.  Look all that work to quiet, how much gas exploding costs each trip?  $$$
+
+🔹 Topic 12 Example Comments:
+- whats the range? it&#39;s not in the info and your voice is unbearable.
+- 1,000 nm is now &quot;long range&quot;?   Times have changed.
+- how is range?
+
+🔹 Topic 26 Example Comments:
+- How about a great loop boat regular folks can afford?  &lt; $200k
+- Listen im short on funds right now but i have a 88 kawasaki and a worm farm id be willing to swap?
+- Very nice! Can you take a 60 ft boat through all of the locks on the great loop?
+
+🔹 Topic 16 Example Comments:
+- Catchy name. A deadly virus (omikron)?
+- hahah who names his boat after the shitty corona virus ??😂😂😂😂😂😂
+- cynical cynical name choice. ridculous even . more variants coming ?
+
+🔹 Topic 5 Example Comments:
+- Never said how much?
+- I know if you have to ask how much that means you can&#39;t afford it, but I already know I can&#39;t but just in case I win the Lottery???
+- $1.9??! For real? That’s a deal. That means they’ll be <i>super</i> well priced by the time I’m looking at one. 😉
+
+🔹 Topic 21 Example Comments:
+- It seems to be free? no price mentioned 🙂
+- Any chance of telling us the price? By the way, it&#39;s X. People that still say twitter are starting to look foolish.
+- Is sales tax included?
+
+🔹 Topic 2 Example Comments:
+- How do you keep reps off of the boat when your docked?
+- Even a half a pilothouse door would be great ,hey? For the captain
+- Are you going to get a sea trial on this Jack?<br>Keen to know how that helm works, so far away from the window. Im suspecting lots of reflection from the galley below and the lounge your sat in the middle of.<br>Only one way to find out... 👍
+
+🔹 Topic 0 Example Comments:
+- Just throwing acreage and money at it, gets you “boat of the year” and all the boating pundits applaud and laud over the opulence and “glitter”. I think, the real awarding boat design and technology should apply when you do more with less or you make an improvement heretofore unknown or unseen. That takes real ingenuity, anything else is lazy and “faux of the year”. 60 feet? That’s easy to “fill up”, try it with 40 feet. Sorry, what the 1% can afford is not “us”.
+- 🍀 how in the world do you pick out a yacht? There’s so many beautiful ones there’s so much technology it is unbelievable. I love cars but now that I’ve gotten in the yachts. I am going crazy 🍀😎✨✨✨
+- That boat costs 4 times as much as my house. Anyone want to tell me why I watched the entire video? Knowing full well the only way I could afford that is if I hit the lottery... which I don&#39;t play.
+
+🔹 Topic 1 Example Comments:
+- Awesome boat design! The team at O needs to rethink the door holder mechanism. That bouncing metallic sound should be audible across the entire boat as it propagates across the fittings. The roof should be optimized for solar panel use without equipment that may cast shade on them. That means that masts &amp; antennas may have be repositioned. You did not address climate control (cooling &amp; heating). Is there space for a dishwasher and laundry-dryer machine?
+- Washer /Dryer?
+- WHAT! No dishwasher!!!```
