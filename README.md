@@ -125,6 +125,7 @@ These strategies will enhance customer satisfaction and strengthen the productâ€
 * Mapped topic clusters and sentiment distribution per topic
 * Generated actionable insights for marketing, product, and communication teams
 
+[See the script](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/main.py)
 
 ----
 
