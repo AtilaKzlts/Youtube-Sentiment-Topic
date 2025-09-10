@@ -12,12 +12,11 @@
     +	About the Data Set
     +	Methodology
     +	Objective
-    
-+	Analysis Outputs
-    +	Sentiment Analysis
-    +	Trend Analysis
-    +	Topic Modeling
-    +	Question Detection 
+    +	Analysis Outputs
+        +	Sentiment Analysis
+        +	Trend Analysis
+        +	Topic Modeling
+        +	Question Detection 
 
 
 ## Project Introduction
