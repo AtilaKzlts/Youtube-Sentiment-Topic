@@ -5,7 +5,7 @@
 
 ![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/Diagram.svg)
 
-## Table of Contents
+## ▌ Table of Contents
 
 +	Project Introduction
     +	Executive Summary
@@ -19,7 +19,7 @@
         +	Question Detection 
 
 
-## Project Introduction
+## ▌ Project Introduction
 
 This project presents a complete Natural Language Processing (NLP) pipeline developed to analyze customer feedback following a product launch. 
 
@@ -37,7 +37,7 @@ Techniques applied in this project include:
 The final output delivers not only structured insights from unstructured user data, but also identifies high-interest discussion topics and key user questions.  
 The approach is **product-agnostic** and can be reused for any type of product with online review content.
 
-## Executive Summary 
+## ▌ Executive Summary 
 
 * **Overall Sentiment:**
   54% of the comments are positive, while 46% are negative. The product is generally perceived favorably, but there are significant concerns.
@@ -67,7 +67,7 @@ These strategies will enhance customer satisfaction and strengthen the product�
 
 
 
-## About the Data Set 
+## ▌ About the Data Set 
 
 | Column Name    | Description                                                                 |
 | -------------- | --------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ These strategies will enhance customer satisfaction and strengthen the product�
 | `text`         | The original comment text as displayed on YouTube                           |
 
 
-## Methodology
+## ▌ Methodology
 
 **Data Collection:**
 
@@ -128,7 +128,7 @@ These strategies will enhance customer satisfaction and strengthen the product�
 
 ----
 
-## Objective 
+## ▌ Objective 
 
 * To understand the **public perception** of our new product (Omikron OT60 yacht) through YouTube comments.
 
@@ -136,7 +136,7 @@ These strategies will enhance customer satisfaction and strengthen the product�
 * To identify the **main discussion topics** and **frequently asked questions** related to the product.
 * To transform these comprehensive analysis results into actionable insights for guiding our **product development, marketing, and communication strategies**, and to **maximize user engagement**.
 
-## Analysis Outputs
+## ▌ Analysis Outputs
 
 *Most comments are concise, averaging 92 characters, indicating quick user reactions.*
 
@@ -285,4 +285,4 @@ This chart illustrates the distribution of viewer interest based on the volume o
 
 
 
-### [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)
+### ▌ [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)
