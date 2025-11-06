@@ -40,15 +40,9 @@ The approach is **product-agnostic** and can be reused for any type of product w
 ## ▌ Executive Summary 
 
 
-| **Category** | **Key Insights & Actions** |
-|---------------|-----------------------------|
-| **Overall Sentiment** | 54% of comments are positive, while 46% are negative. The overall perception is favorable, though concerns remain in technical areas. |
-| **Engagement Patterns** | Activity peaks between 7:00 PM – 9:00 PM, with a notable rise in positive sentiment around 6:00 PM. Schedule marketing content during these hours for higher engagement. |
-| **Strengths Identified** | Customers consistently praise aesthetic design, performance, and the bright, open interior/exterior atmosphere. These elements should be highlighted in branding and campaign materials. |
-| **Areas for Improvement** | Major issues include range capacity, technological modernity (e.g., outdated equipment references like "fax machine"), crew cabin design, and layout optimization in living spaces. |
-| **High-Interest Topics** | Users show high curiosity about white goods & auxiliary equipment, naming, range/fuel efficiency, yacht equipment, and pricing — requiring richer content coverage. |
-| **Recommended Actions** | 1. Schedule new product launches and campaigns during 7–9 PM. <br> 2. Address negative themes via transparent FAQ/blog/video updates. <br> 3. Offer detailed technical & pricing clarity. <br> 4. Emphasize design and performance in all messaging. |
-| **Expected Outcome** | Improved brand trust, higher engagement, and stronger conversion potential through data-driven content timing and proactive reputation management. |
+| **Customer Sentiment & Behavior** | **Insights & Recommended Actions** |
+|-----------------------------------|------------------------------------|
+| **Overall Sentiment:**<br>54% of comments are positive, while 46% are negative. Product perception is mostly favorable but significant functional concerns exist.<br><br>**Engagement Patterns:**<br>Comment activity peaks between **7:00 PM – 9:00 PM**, with positive sentiment rising around **6:00 PM**.<br><br>**Key Strengths:**<br>- Modern aesthetic and interior design<br>- Strong performance and user comfort<br>- Bright interior/exterior praised by users | **Priority Areas for Improvement:**<br>- Range capacity and fuel efficiency<br>- Outdated technology (e.g., “fax machine” references)<br>- Crew cabin and layout optimization<br><br>**High-Interest Topics:**<br>- Product naming, range, equipment, pricing<br>- White goods and auxiliary equipment<br><br>**Recommended Actions:**<br>1. Schedule posts during 7–9 PM peak engagement.<br>2. Address concerns via detailed FAQs, blogs, and video content.<br>3. Provide transparent pricing and specs.<br>4. Highlight design and performance strengths in all marketing.<br><br>**Expected Impact:**<br>Improved customer satisfaction, stronger trust, and enhanced market positioning. |
 
 
 
