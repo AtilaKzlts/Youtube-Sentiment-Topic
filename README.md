@@ -39,30 +39,16 @@ The approach is **product-agnostic** and can be reused for any type of product w
 
 ## ▌ Executive Summary 
 
-* **Overall Sentiment:**
-  54% of the comments are positive, while 46% are negative. The product is generally perceived favorably, but there are significant concerns.
 
-* **Engagement Times:**
-  Comments peak particularly between 7:00 PM and 9:00 PM, with positive feedback notably increasing around 6:00 PM.
-
-* **Strengths:**
-  The aesthetic design, performance, and the bright atmosphere of both interior and exterior spaces are frequently praised by customers. These features should be prominently highlighted in marketing efforts.
-
-* **Areas for Improvement:**
-  Critical areas requiring development include range capacity, technological modernity (e.g., references to “fax machine”), the crew cabin, and equipment/layout issues in living spaces.
-
-* **High-Interest Topics:**
-  White goods and auxiliary equipment, product naming, range and fuel efficiency, yacht equipment, and pricing are the most frequently asked-about subjects, necessitating detailed content and communication strategies.
-
-* **Recommended Actions:**
-
-  1. New product content and marketing campaigns should be scheduled according to peak engagement hours between 7:00 PM and 9:00 PM.
-  2. Negative feedback (regarding range, technology, crew cabin, equipment) should be proactively addressed with transparent, detailed FAQs, blogs, and video content; collaboration with content creators for video production is recommended if necessary.
-  3. Comprehensive, transparent, and clear information should be provided on technical specifications and pricing.
-  4. The strong design and performance features should be emphasized in all promotional materials.
-
-**Conclusion:**
-These strategies will enhance customer satisfaction and strengthen the product’s market position. It is critical to prioritize and rapidly implement improvements in the identified areas.
+| **Category** | **Key Insights & Actions** |
+|---------------|-----------------------------|
+| **Overall Sentiment** | 54% of comments are positive, while 46% are negative. The overall perception is favorable, though concerns remain in technical areas. |
+| **Engagement Patterns** | Activity peaks between 7:00 PM – 9:00 PM, with a notable rise in positive sentiment around 6:00 PM. Schedule marketing content during these hours for higher engagement. |
+| **Strengths Identified** | Customers consistently praise aesthetic design, performance, and the bright, open interior/exterior atmosphere. These elements should be highlighted in branding and campaign materials. |
+| **Areas for Improvement** | Major issues include range capacity, technological modernity (e.g., outdated equipment references like "fax machine"), crew cabin design, and layout optimization in living spaces. |
+| **High-Interest Topics** | Users show high curiosity about white goods & auxiliary equipment, naming, range/fuel efficiency, yacht equipment, and pricing — requiring richer content coverage. |
+| **Recommended Actions** | 1. Schedule new product launches and campaigns during 7–9 PM. <br> 2. Address negative themes via transparent FAQ/blog/video updates. <br> 3. Offer detailed technical & pricing clarity. <br> 4. Emphasize design and performance in all messaging. |
+| **Expected Outcome** | Improved brand trust, higher engagement, and stronger conversion potential through data-driven content timing and proactive reputation management. |
 
 
 
