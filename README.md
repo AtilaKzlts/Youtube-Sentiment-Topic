@@ -25,7 +25,7 @@ This project presents a complete Natural Language Processing (NLP) pipeline deve
 
 Using the official **YouTube Data API**, user comments were collected from product review videos and processed to uncover key insights about public perception.
 
-The core objective was to help marketing and product teams better understand what users think about the product — what they like, what they are confused about, and what they frequently ask.
+**The core objective was to help marketing and product teams better understand what users think about the product — what they like, what they are confused about, and what they frequently ask.**
 
 Techniques applied in this project include:
 - **Sentiment Analysis** (BERT-based)
