@@ -21,7 +21,7 @@
 
 ## ▌ Project Introduction
 
-This project presents a complete Natural Language Processing (NLP) pipeline developed to analyze customer feedback following a product launch. 
+#### **“What are people saying on social media about our newly launched product?”**
 
 Using the official **YouTube Data API**, user comments were collected from product review videos and processed to uncover key insights about public perception.
 
