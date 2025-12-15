@@ -3,7 +3,7 @@
  </p>
 </div>
 
-![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/Diagram.svg)
+![image](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic/blob/main/assets/Diagram1.png)
 
 ## ▌ Table of Contents
 
